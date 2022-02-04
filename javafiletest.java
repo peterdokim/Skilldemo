@@ -7,7 +7,7 @@ public class javafiletest {
 
     public void subtract(){
 
-        assertEquals(1,javafile.subtract(100, 20));
+        assertEquals(1,javafile.subtract(100, 99));
     }
     
 }
